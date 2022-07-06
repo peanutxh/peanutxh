@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peanutxh
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning on FullStackOpen & CS50x,w
+- 👀 I’m interested in WebDev & productivity hacks.
+- 🌱 Learning flow: FCC (~JS) > FullStackOpen | CS50x,w > Projects
 
 <!---
 peanutxh/peanutxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
