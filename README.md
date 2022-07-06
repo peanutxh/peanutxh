@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peanutxh
-- 👀 I’m interested in WebDev & productivity hacks.
+- 👀 I’m interested in WebDev & optimising productivity.
 - 🌱 Learning flow: FCC (~JS) > OdinProject | FullStackOpen | CS50x,w > Projects
 
 <!---
